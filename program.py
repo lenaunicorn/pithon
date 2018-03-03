@@ -2,4 +2,4 @@
 
 otvet = int(input("Сколько тебе лет?   "))
 print("Ты родился в", 2018 - otvet)
-print("Пока")
+print("Пока!")
